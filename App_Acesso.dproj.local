@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/08/05 11:10:23.000.109,=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/05 11:11:00.000.244,C:\Users\Guilherme\Desktop\guilherme-ads\App_Acesso\uFrmPrincipal.pas=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/08/05 11:11:00.000.244,C:\Users\Guilherme\Desktop\guilherme-ads\App_Acesso\uFrmPrincipal.dfm=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2021/08/05 11:11:09.000.519,C:\Users\Guilherme\Desktop\guilherme-ads\App_Acesso\App_Acesso.dproj=C:\Users\Guilherme\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/08/05 12:14:33.000.995,=C:\Users\Guilherme\Desktop\guilherme-ads\App_Acesso\Unit1.pas</Transaction>
+    <Transaction>2021/08/05 12:15:49.000.799,C:\Users\Guilherme\Desktop\guilherme-ads\App_Acesso\uFrmBemVindo.dfm=C:\Users\Guilherme\Desktop\guilherme-ads\App_Acesso\Unit1.dfm</Transaction>
+    <Transaction>2021/08/05 12:15:49.000.799,C:\Users\Guilherme\Desktop\guilherme-ads\App_Acesso\uFrmBemVindo.pas=C:\Users\Guilherme\Desktop\guilherme-ads\App_Acesso\Unit1.pas</Transaction>
+    <Transaction>2021/08/05 14:15:50.000.005,=C:\Users\Guilherme\Desktop\guilherme-ads\App_Acesso\Unit1.pas</Transaction>
+    <Transaction>2021/08/05 14:17:07.000.799,C:\Users\Guilherme\Desktop\guilherme-ads\App_Acesso\uFrmEsqueceuSenha.pas=C:\Users\Guilherme\Desktop\guilherme-ads\App_Acesso\Unit1.pas</Transaction>
+    <Transaction>2021/08/05 14:17:07.000.799,C:\Users\Guilherme\Desktop\guilherme-ads\App_Acesso\uFrmEsqueceuSenha.dfm=C:\Users\Guilherme\Desktop\guilherme-ads\App_Acesso\Unit1.dfm</Transaction>
+    <Transaction>2021/08/05 16:56:53.000.824,=C:\Users\Guilherme\Desktop\guilherme-ads\App_Acesso\Unit1.pas</Transaction>
+    <Transaction>2021/08/05 16:57:14.000.305,C:\Users\Guilherme\Desktop\guilherme-ads\App_Acesso\uObrigatorio.pas=C:\Users\Guilherme\Desktop\guilherme-ads\App_Acesso\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
